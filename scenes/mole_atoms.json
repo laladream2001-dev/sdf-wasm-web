@@ -1,0 +1,302 @@
+{
+ "sdf_scene_version": 1,
+ "name": "mole_atoms",
+ "prims": [
+  {
+   "kind": "plane",
+   "y": 0.0,
+   "color": [
+    0.16,
+    0.18,
+    0.22
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -1.08,
+    0.22,
+    -1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -1.08,
+    0.22,
+    -0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -1.08,
+    0.22,
+    0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -1.08,
+    0.22,
+    1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -0.36,
+    0.22,
+    -1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -0.36,
+    0.22,
+    -0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -0.36,
+    0.22,
+    0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    -0.36,
+    0.22,
+    1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    0.36,
+    0.22,
+    -1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    0.36,
+    0.22,
+    -0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    0.36,
+    0.22,
+    0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    0.36,
+    0.22,
+    1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    1.08,
+    0.22,
+    -1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    1.08,
+    0.22,
+    -0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    1.08,
+    0.22,
+    0.36
+   ],
+   "radius": 0.22,
+   "color": [
+    0.55,
+    0.58,
+    0.62
+   ],
+   "op": "union",
+   "smooth": 0.08
+  },
+  {
+   "kind": "sphere",
+   "center": [
+    1.08,
+    0.22,
+    1.08
+   ],
+   "radius": 0.22,
+   "color": [
+    0.72,
+    0.35,
+    0.2
+   ],
+   "op": "union",
+   "smooth": 0.08
+  }
+ ],
+ "globals": {
+  "camera_pos": [
+   2.4,
+   2.8,
+   4.6
+  ],
+  "camera_target": [
+   0.0,
+   0.25,
+   0.0
+  ],
+  "fov_deg": 40.0,
+  "background": [
+   0.05,
+   0.07,
+   0.11
+  ],
+  "light_dir": [
+   0.39405520311955033,
+   0.7881104062391007,
+   0.4728662437434604
+  ],
+  "light_color": [
+   1.0,
+   0.98,
+   0.92
+  ],
+  "ambient": 0.38
+ }
+}
